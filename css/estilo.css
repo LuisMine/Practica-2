@@ -1,0 +1,65 @@
+.contenedor
+{
+    /*background-color: aqua;*/
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.caja1
+{
+    background-color: orange;
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+}
+
+.cajita1
+{
+    margin: 5px;
+    width: 100px;
+    height: 180px;
+}
+
+.cajita1-1
+{
+    width: 300px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+}
+
+.caja2
+{
+    background-color: orange;
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+}
+
+.cajita2
+{
+    background-color: brown;
+    margin: 5px;
+    margin-top: 7px;
+    width: 285px;
+    height: 50px;
+}
+
+.caja3
+{
+    background-color: orange;
+    margin: 5px;
+    width: 300px;
+    height: 400px;
+    display: flex;
+    flex-direction: row;
+}
+
+.cajita3
+{
+    background-color: brown;
+    margin: 5px;
+    width: 90px;
+    height: 80px;
+}
